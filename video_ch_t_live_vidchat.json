@@ -9,7 +9,7 @@
     "admob_native": "ca-app-pub-6479751617559181/3303037686_",
     "admob_open": "ca-app-pub-6479751617559181/6424025042_",
     "ad_type" : "0",
-    "load_more":true,
+    "load_more":false,
     "new_pkg" : "com.videodly.tubemusic",
     "is_version" : "false"
   }
