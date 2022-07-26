@@ -9,7 +9,7 @@
     "admob_native": "/21753324030,22764336884/com.livevideocall.randomchat.randomvideocall.videocallappwithgirl.livetalk.videocall_Native",
     "admob_open": "/21753324030,22764336884/com.livevideocall.randomchat.randomvideocall.videocallappwithgirl.livetalk.videocall_AppOpen",
     "ad_type" : "1",
-    "load_more":false,
+    "load_more":true,
     "new_pkg" : "com.videodly.tubemusic",
     "is_version" : "false"
   }
