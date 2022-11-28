@@ -17,7 +17,7 @@
   "AdmobOpenAds": "ca-app-pub-9327268935360884/5458601114",
   "admob_pub_id": "pub-9327268935360884",
   "admob_app_id": "ca-app-pub-9327268935360884~9589417818",
-  "adType": "admob",
+  "adType": "applovin",
   "adStatus": "admob",
   "loadMore":false,
   "adNativeCount":15,
