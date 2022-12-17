@@ -1,0 +1,27 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.appzombies.english.gujarati.translator",
+  "fbBannr": "206761076723476_412225842843664",
+  "fbInter": "206761076723476_206761400056777",
+  "fbNative": "206761076723476_309582603107989",
+  "fbNativeBnnr": "206761076723476_785200065546238",
+  "AdxBannr": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_Banner",
+  "AdxInter": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_Interstitial",
+  "AdxbInterSplash":"",
+  "AdxNative": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_Native",
+  "AdxOpenAds": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_AppOpen",
+  
+  "AdmobBannr": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_Banner",
+  "AdmobInter": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_Interstitial",
+  "AdmobInterSplash":"",
+  "AdmobNative": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_Native",
+  "AdmobOpenAds": "/21753324030,22764336884/com.vc.emi.calculator.loanemicalc.emicalculator.loanemicalculator_AppOpen",
+  
+  "admob_pub_id": "pub-3940256099942544",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "adType": "admob",
+  "adStatus": "admob",
+  "loadMore":false,
+  "adMobTime":20
+}
